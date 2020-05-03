@@ -1,0 +1,26 @@
+.navbar{
+    font-family: "Consolas", serif;
+}
+
+
+.logo2{
+    height: 1rem;
+}
+
+
+.carousel{
+    margin-top: 20px;
+}
+.carousel .item{
+    min-height: 280px;
+}
+.carousel .item img{
+    margin: 0 auto;
+    max-height: 280px;
+    width:100%;
+}
+
+.footer{
+    font-family: "Consolas", serif;
+    margin-top: 25px;
+}
